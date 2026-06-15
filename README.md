@@ -9,7 +9,31 @@
 
 Silica is a beautiful native macOS compressor for archives, images and everyday files.
 
+Not just another archive utility — Silica explains what can actually shrink before you compress it.
+
 It is not trying to be another WinRAR clone. Silica is designed like a modern Apple utility: quiet, local-first, fast to use, and focused on explaining where space can actually be saved.
+
+## Demo
+
+![Silica demo](Docs/demo.gif)
+
+## Screenshots
+
+### Smart Compression
+
+![Smart screen](Docs/Screenshots/smart.png)
+
+### Silica Lens
+
+![Silica Lens](Docs/Screenshots/lens.png)
+
+### Quick Panel
+
+![Quick Panel](Docs/Screenshots/quick-panel.png)
+
+### Menu Bar
+
+![Menu Bar](Docs/Screenshots/menu-bar.png)
 
 ## Why Silica
 
